@@ -1,0 +1,1 @@
+Copy application_payload_template.json to application_payload.json, then replace YOUR_USERNAME and verify all URLs.
